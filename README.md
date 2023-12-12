@@ -1,5 +1,5 @@
 # dir-815
-Exploit Author: yangchunyu@whu.edu.cn
+Exploit Author: 1327638470@qq.com
 
 Vendor: D-Link
 
