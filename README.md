@@ -1,6 +1,5 @@
 # dir-815
-Exploit Author: 1327638470@qq.com
-
+Exploit Author: yangchunyu@whu.edu.cn
 Vendor: D-Link
 
 Firmware: dir815_v1.01SSb08.bin
